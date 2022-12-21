@@ -1,5 +1,5 @@
 import math
-print("Distance Between Two Variables")
+print("Distance Between Two Points")
 
 x1 = int(input("Enter value for x1 : "))
 x2 = int(input("Enter value for x2 : "))
@@ -16,4 +16,4 @@ D3=D1+D2
 
 D=math.sqrt(D3)
 
-print("Distance Between Two Variables : ",D)
+print("Distance Between Two Points : ",D)
