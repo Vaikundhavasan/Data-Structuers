@@ -6,7 +6,7 @@ Unit 500 to 1000 = 500$
 Unit >= 1000 =  1000$
 """
 
-print("EB bill using Iterative loops")
+print("EB bill using Conditionals and loops")
 print(".............................")
 
 name = input("Enter your Name : ")
